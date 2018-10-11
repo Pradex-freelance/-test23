@@ -6,6 +6,9 @@
  */
 
 require('./bootstrap');
+require('./clean-blog');
+require('./contact_me');
+require('./jqBootstrapValidation');
 
 window.Vue = require('vue');
 
